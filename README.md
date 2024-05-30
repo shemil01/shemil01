@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 💫 About Me:
 💼 Profession: Full-stack Developer<br>🌐 Expertise: MongoDB, Express.js, React, Node.js<br>📍 Location: malappuram,kerala
 
