@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm muhammed shemil</h1>
-<h3 align="center">a passionate MERN stack developer</h3>
+
+# 💫 About Me:
+💼 Profession: Full-stack Developer<br>🌐 Expertise: MongoDB, Express.js, React, Node.js<br>📍 Location: malappuram,kerala
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemil01&label=Profile%20views&color=0e75b6&style=flat" alt="shemil01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shemil01&theme=onedark" alt="shemil01" /></a> </p>
