@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shemil01&theme=onedark" alt="shemil01" /></a> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Sql**
 
 - 📫 How to reach me **shemilmk1033@gmail.com**
 
