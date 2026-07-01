@@ -4,7 +4,7 @@
 # 💫 About Me:
 💼 Profession: Full Stack Developer (Node.js / Next.js / MERN)<br>
 🌐 Expertise: JavaScript, TypeScript, Python, React, Next.js, Node.js, Express.js, FastAPI<br>
-🛠️ Currently building: Enterprise-grade attendance & HR automation systems, real-time data pipelines, and queue-based microservices<br>
+🛠️ Currently building: Scalable backend systems, real-time data pipelines, and queue-based microservices<br>
 📍 Location: Malappuram, Kerala, India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemil01&label=Profile%20views&color=0e75b6&style=flat" alt="shemil01" /> </p>
