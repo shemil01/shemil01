@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemil01&label=Profile%20views&color=0e75b6&style=flat" alt="shemil01" /> </p>
 
-- 🚀 I'm currently working as a **Software Developer**, architecting a real-time biometric attendance & leave management system for 500+ employees
+- 🚀 I'm currently working as a **Software Developer**, building scalable backend systems and APIs
 - 🧩 I specialise in **system design, microservices architecture, and queue-based backend engineering** (Redis, Celery, BullMQ)
 - 🌱 I'm currently deepening my skills in **SQL, PostgreSQL, and cloud infrastructure**
 - 💬 Ask me about **Node.js, Next.js, FastAPI, REST/GraphQL API design, and real-time systems**
